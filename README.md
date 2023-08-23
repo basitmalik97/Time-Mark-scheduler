@@ -5,6 +5,10 @@ This is a simple calendar application designed to save hourly events throughout 
 **App Description:**
 This day planner covers 8am to 5pm, reflecting typical working hours for the current day. Users can input and save text for future-hour description fields. Data is stored in the browser's localStorage. Past hours are gray, the present hour is red, and future hours are green.
 
+**Links**
+- [Code Repository](https://github.com/basitmalik97/Time-Mark-scheduler)
+
+
 **Pseudo Code Highlights:**
 - HTML: Use Bootstrap components, provide timeblocks in both 24-hour and 12-hour formats.
 - CSS: Standard setup using HTML attributes and classes.

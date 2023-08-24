@@ -12,6 +12,7 @@ This day planner covers 8am to 5pm, reflecting typical working hours for the cur
 **Screenshots**
  
 ![Main Page Screenshot](scheduler.png)
+![Screenshot with confirmation message](local-storage-message.png)
 
 
 **Pseudo Code Highlights:**

@@ -10,8 +10,8 @@ This day planner covers 8am to 5pm, reflecting typical working hours for the cur
 - [Live Site of Scheduler](https://basitmalik97.github.io/Time-Mark-scheduler/)
 
 **Screenshots**
- 
 ![Main Page Screenshot](scheduler.png)
+![Main Page Screenshot](local-storage-message.png)
 
 
 **Pseudo Code Highlights:**

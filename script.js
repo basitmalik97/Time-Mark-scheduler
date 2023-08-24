@@ -16,6 +16,9 @@ $(document).ready(function () {
         // Retrieved the alteration from the higher-level HTML identifier attribute.
         var time = $(this).parent().attr("id"); 
         
+        // display meesage when save button 
+        $(".saveMessage").css("display", "flex");
+
         //set items in local storage.
         localStorage.setItem(time, text);
     })
